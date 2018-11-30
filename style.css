@@ -1,0 +1,31 @@
+p {
+  color: blue;
+  font-size: 12px;
+  text-decoration: line-through;
+}
+
+h1{
+  color: green;
+  text-transform: uppercase
+  margin: 20px;
+  border: dashed red 5px
+  padding: 40px;
+  }
+  h2{
+    text-decoration: underline;
+  }
+
+  h1,h2 {
+  background-color: gray;
+}
+
+body{
+  font-family: sans-serif;
+}
+
+#myintro {
+  border: 1px solid black;
+}
+.spotlight{
+  background color: yellow;
+}
